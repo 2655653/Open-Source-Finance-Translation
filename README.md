@@ -13,16 +13,23 @@
 
 目前仓库内包含以下两篇文献的高质量中英文对照翻译（Markdown格式）：
 
-1. **[文献一标题：例如 - FinGPT: Open-Source Financial Large Language Models]**
-   - **原文链接：** [在此处插入原文链接]
+1. **Attention is all you need**
+   - **原文链接：** [https://arxiv.org/pdf/1706.03762]
+   - **核心摘要：** 直接催生了目前全球最大的开源 AI 社区——Hugging Face（抱抱脸）。现在所有开源的金融大模型（如基于 Llama、ChatGLM 微调的模型），其代码库和模型权重的开源，都是建立在这篇论文的理论基础之上的。
+   - **阅读路径：** []()
+
+2. **FinGPT: Open-Source Financial Large Language Models**
+   - **原文链接：** [https://arxiv.org/abs/2306.06031]
    - **核心摘要：** 本文详细介绍了开源金融大模型 FinGPT 的架构设计，以及如何利用开源技术栈处理庞大的金融文本数据。
-   - **阅读路径：** [`/Translations/FinGPT_Translation.md`](./Translations/FinGPT_Translation.md)
+   - **阅读路径：** []()
 
-2. **[文献二标题：例如 - The Application of LLMs in Venture Capital Data Governance]**
-   - **原文链接：** [在此处插入原文链接]
-   - **核心摘要：** 探讨了如何应用大语言模型自动化解析风险投资/企业风险投资（CVC）中的多源异构公告，构建动态数据库。
-   - **阅读路径：** [`/Translations/VC_Data_LLM_Translation.md`](./Translations/VC_Data_LLM_Translation.md)
-
+3. **Enabling Global Collaboration: How Open Source Leaders Are Confronting the Challenges of Fragmentation**
+   - **原文链接：** []
+   - **核心摘要：** 促成全球协作：开源领导者如何应对碎片化挑战，由 DEEP Centre Inc. 的 Anthony D. Williams 撰写。它是由 Futurewei Technologies 赞助，并与 Linux 基金会及其旗下多个分支（如 Eclipse, FINOS, LF AI & Data 等）合作发布的。
+发布目的： 随着全球开源项目和参与组织的爆炸式增长，报告旨在调查“碎片化（Fragmentation）”是否阻碍了开源社区的发展，探讨其产生的利弊，并提出治理和解决策略。
+   - **阅读路径：** []()
+  
+   
 ## 🤝 参与贡献 (Contributing & Pull Requests)
 
 **开源的核心在于协作与共享！** 本仓库的所有翻译内容均完全开源，非常欢迎各位同学、研究者和开发者进行学习、探讨和修改。
