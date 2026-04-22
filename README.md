@@ -27,7 +27,7 @@
    - **原文链接：** [https://www.linuxfoundation.org/research/open-source-fragmentation]
    - **核心摘要：** 本篇内容为校内开源课程的分享总结。原文中文标题为《促成全球协作：开源领导者如何应对碎片化挑战》，由 DEEP Centre Inc. 的 Anthony D. Williams 撰写，发布于。它是由 Futurewei Technologies 赞助，并与 Linux 基金会及其旗下多个分支（如 Eclipse, FINOS, LF AI & Data 等）合作发布的。
 发布目的： 随着全球开源项目和参与组织的爆炸式增长，报告旨在调查“碎片化（Fragmentation）”是否阻碍了开源社区的发展，探讨其产生的利弊，并提出治理和解决策略。
-   - **阅读路径：** []()
+   - **阅读路径：** [https://github.com/2655653/Open-Source-Finance-Translation/blob/6c73f5eea400c3be5b80463ba9ecad11c75fb815/2026%E5%B9%B43%E6%9C%8819%E6%97%A5%2B%E4%BF%83%E6%88%90%E5%85%A8%E7%90%83%E5%8D%8F%E4%BD%9C%E5%BC%80%E6%BA%90%E9%A2%86%E5%AF%BC%E8%80%85%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%A2%8E%E7%89%87%E5%8C%96%E6%8C%91%E6%88%98%EF%BC%8C%E4%BB%8E%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90%E5%88%B0%E6%88%98%E7%95%A5%E5%8D%9A%E5%BC%88.pptx][https://github.com/2655653/Open-Source-Finance-Translation/blob/6c73f5eea400c3be5b80463ba9ecad11c75fb815/2026%E5%B9%B43%E6%9C%8819%E6%97%A5%2B%E4%BF%83%E6%88%90%E5%85%A8%E7%90%83%E5%8D%8F%E4%BD%9C%E5%BC%80%E6%BA%90%E9%A2%86%E5%AF%BC%E8%80%85%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%A2%8E%E7%89%87%E5%8C%96%E6%8C%91%E6%88%98%EF%BC%8C%E4%BB%8E%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90%E5%88%B0%E6%88%98%E7%95%A5%E5%8D%9A%E5%BC%88.docx]
   
    
 ## 🤝 参与贡献 (Contributing & Pull Requests)
